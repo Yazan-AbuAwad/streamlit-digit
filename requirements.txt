@@ -1,6 +1,6 @@
 numpy
 tensorflow
 runipy
-opencv-python
+opencv-python==3.4.13.47
 streamlit
 streamlit_drawable_canvas
